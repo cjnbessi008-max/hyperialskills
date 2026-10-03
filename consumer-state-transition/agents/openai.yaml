@@ -1,0 +1,3 @@
+interface:
+  display_name: "Consumer State Transition"
+  short_description: "Model buyer state, objections, transitions, and next-best evidence."
